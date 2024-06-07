@@ -34,10 +34,5 @@ This project aims to predict stock prices for large-cap, mid-cap, and small-cap 
 - Mid-Cap Stocks: Best Model - Ridge Regression, Training MSE - 2182.64, Testing MSE - 1321.33
 - Small-Cap Stocks: Best Model - Ridge Regression, Training MSE - 1254.47, Testing MSE - 1101.69
 
-## Future Improvements
-- Incorporate more features like macroeconomic indicators.
-- Experiment with advanced models like LSTM for time-series prediction.
-- Enhance data preprocessing with feature engineering techniques.
-
 ## Contributing
 Feel free to open issues or submit pull requests. Contributions are welcome!
